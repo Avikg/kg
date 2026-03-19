@@ -726,7 +726,7 @@ data = from_networkx(G)
 | CancerMine GitHub | https://github.com/jakelever/cancermine |
 | COSMIC download portal | https://cancer.sanger.ac.uk/cosmic/download |
 | COSMIC registration | https://cancer.sanger.ac.uk/cosmic/register |
-| COSMIC paper | https://doi.org/10.1093/nar/gkad986](https://doi.org/10.1093/nar/gky1015 |
+| COSMIC paper | https://academic.oup.com/nar/article/47/D1/D941/5146192 |
 
 ---
 
