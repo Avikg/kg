@@ -1,0 +1,7 @@
+DATASET_KG/
+cosmic/
+cancermine/
+kg_output/
+*.tsv
+*.gz
+*.tar
