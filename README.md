@@ -720,12 +720,13 @@ data = from_networkx(G)
 | Resource | URL |
 |---|---|
 | HeNeCOn paper | https://doi.org/10.1016/j.ijmedinf.2023.105284 |
+| CancerMine paper | https://doi.org/10.1038/s41592-019-0422-y |
 | CancerMine web viewer | http://bionlp.bcgsc.ca/cancermine |
 | CancerMine Zenodo | https://doi.org/10.5281/zenodo.1156241 |
 | CancerMine GitHub | https://github.com/jakelever/cancermine |
 | COSMIC download portal | https://cancer.sanger.ac.uk/cosmic/download |
 | COSMIC registration | https://cancer.sanger.ac.uk/cosmic/register |
-| COSMIC paper | https://doi.org/10.1093/nar/gkad986 |
+| COSMIC paper | https://doi.org/10.1093/nar/gkad986](https://doi.org/10.1093/nar/gky1015 |
 
 ---
 
